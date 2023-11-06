@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "CodeClicker",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

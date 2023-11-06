@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "codeclicker-ee42d",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

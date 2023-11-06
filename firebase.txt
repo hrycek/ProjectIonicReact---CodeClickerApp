@@ -1,0 +1,9 @@
+const firebaseConfig = {
+        apiKey: "AIzaSyCd6S3wgg3fseIhaPhGSs9ukGi5EVAPkOY",
+        authDomain: "codeclicker-ee42d.firebaseapp.com",
+        projectId: "codeclicker-ee42d",
+        storageBucket: "codeclicker-ee42d.appspot.com",
+        messagingSenderId: "1057391174334",
+        appId: "1:1057391174334:web:78e896949b6887685134ef",
+        measurementId: "G-5RD5GMPTTG"
+    };

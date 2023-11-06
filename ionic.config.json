@@ -1,0 +1,7 @@
+{
+  "name": "CodeClicker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

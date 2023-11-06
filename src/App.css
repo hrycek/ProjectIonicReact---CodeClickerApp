@@ -1,0 +1,110 @@
+body{
+  background-color: gray;
+}
+.upgrades{
+    height: 33%;
+    align-items: center;
+}
+
+.align{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.center{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    max-height: 7rem;
+}
+
+#ion-content-overflow {
+  --overflow: hidden;
+  min-height: 21rem;
+}
+
+.center2{
+    max-width: 3rem;
+    max-height: 3rem;
+}
+
+.radius{
+    border-radius: 10px;
+}
+
+.centerBody{
+    max-width: 600px;
+    margin: auto;
+    border-radius: 15px;
+    border: 2px solid black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.right{
+    float: right;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+
+.lock{
+  max-height: 3rem;
+}
+
+.textAlign{
+  text-align: right;
+}
+.my-custom-class{
+    margin: auto;
+    text-align: center;
+}
+
+.border{
+  border-top: 2px solid gray
+}
+
+.myToast{
+  border-radius: 1px;
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+
+
+
+
+@keyframes shake {
+    10%, 90% {
+      transform: translate3d(-1px, 0, 0);
+    }
+    
+    20%, 80% {
+      transform: translate3d(2px, 0, 0);
+    }
+  
+    30%, 50%, 70% {
+      transform: translate3d(-2px, 0, 0);
+    }
+  
+    40%, 60% {
+      transform: translate3d(2px, 0, 0);
+    }
+  }
+
+  @keyframes upgrade {
+    20%{
+      transform: translate3d(0, -2px, 0);
+    }
+    40%{
+      transform: translate3d(0, 0px, 0);
+    }
+    
+  }
+
+

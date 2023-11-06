@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057391174334",
+    "project_id": "codeclicker-ee42d",
+    "storage_bucket": "codeclicker-ee42d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057391174334:android:e8cf355717dadfde5134ef",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057391174334-048p23pq8nepia89kcpinrqhid6834oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6e1MgF3Yww3Y03rmntUggH216uCfXYAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057391174334-048p23pq8nepia89kcpinrqhid6834oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
